@@ -72,3 +72,5 @@ No need for any attendants to help in finding the products.
 
 ### MICRO-SERVICES
 Everything in the smart cart is configurable, retail store can enable/disable the required functionalities accordingly. 
+
+## Demo Link : [SMARTCART DEMO](https://drive.google.com/file/d/10h6CSndMa60qVJ3zkMEWU8E9Rq9iXWa-/view?usp=share_link)
