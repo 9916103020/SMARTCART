@@ -1,3 +1,7 @@
+[![Python Version](https://img.shields.io/badge/python-3.10-brightgreen.svg)](https://python.org)
+[![Django Version](https://img.shields.io/badge/django-4.1.5-brightgreen.svg)](https://djangoproject.com)
+
+
 # Smart Cart
 
 ## SMART CART - An Hybrid shopping cart
