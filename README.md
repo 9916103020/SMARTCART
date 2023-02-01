@@ -12,7 +12,7 @@ Smart Cart is a hybrid shopping cart that improves customers' experience with th
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/9916103020/NCR-CORPORATION-WORK-EXPERIENCE.git
+git clone https://github.com/9916103020/SMARTCART.git
 ```
 
 Install the requirements:
